@@ -1,11 +1,12 @@
- 
 <div align="center">
 
-# ୨୧ Hello, I'm Elaine! 🦢
+୨୧ ──────── ୨୧
+
+# 𝓗𝓮𝓵𝓵𝓸, 𝓘'𝓶 𝓔𝓵𝓪𝓲𝓷𝓮! 🦢
 
 ♡₊˚ 🐇・₊✧・🎀・✧₊˚♡
 
-**Information Technology Student**
+**🎓 Information Technology Student**
 
 𓂃 ࣪˖ ִֶָ𐀔
 
@@ -13,39 +14,46 @@
 
 — Edgar Allan Poe
 
+୨୧ ──────── ୨୧
+
 </div>
 
----
-
-### ୨୧ about me
+### 🩰 ୨୧ about me
 
 - 🦢 Information Technology student.
 - 🐇 Currently learning programming and development.
 - 🎀 Exploring new technologies.
-- 🩰 Interested in creativity and innovation.
-- ☁️ Always expanding my knowledge.
+- 🧸 Interested in creativity and innovation.
+- 🦋 Always curious about new things.
 
-### ୨୧ technologies & tools
+### 🎀 ୨୧ technologies & tools
 
-<img src="https://skillicons.dev/icons?i=python,html,css,github,vscode" />
+<div align="center">
 
-### ୨୧ my interests
+<img src="https://skillicons.dev/icons?i=python,html,css,github,vscode&theme=light" />
 
-୭ ˚. ᵎᵎ Programming  
-୭ ˚. ᵎᵎ Technology & innovation  
-୭ ˚. ᵎᵎ Literature  
-୭ ˚. ᵎᵎ Creative projects  
+</div>
+
+### 🌷 ୨୧ my interests
+
+- 💻 Programming
+- ✨ Technology & innovation
+- 📖 Literature
+- 🎨 Creative projects
+- 🌙 Art & aesthetics
 
 ---
 
 <div align="center">
 
-𓍢ִ໋🌷͙֒
+### 🦢 ୨୧ a thought to keep
 
-*“Life is the art of the encounter.”*
+*“We know what we are, but know not what we may be.”*
 
-— Vinicius de Moraes
+— William Shakespeare
 
-♡ 𓂃 🦢 𓈒𓏸 🐇 𓂃 ♡
+♡₊˚ 🐇・₊✧・🎀・✧₊˚♡
+
+𓍢ִ໋🌷͙֒ 𓂃 ࣪˖ ִֶָ
 
 </div>
