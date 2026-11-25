@@ -1,4 +1,5 @@
- <div align="center">
+
+\<div align="center">
 
 ୨୧ ──────── ୨୧
 
@@ -16,7 +17,7 @@
 
 ୨୧ ──────── ୨୧
 
-</div>
+\</div>
 
 ### 🩰 ୨୧ about me
 
@@ -28,11 +29,11 @@
 
 ### 🎀 ୨୧ technologies & tools
 
-<div align="center">
+\<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,github,vscode&theme=light" />
+\<img src="[https://skillicons.dev/icons?i=python,html,css,github,vscode&theme=light](https://skillicons.dev/icons?i=python,html,css,github,vscode\&theme=light)" />
 
-</div>
+\</div>
 
 ### 🌷 ୨୧ my interests
 
@@ -46,17 +47,17 @@
 
 ### 🕯️ ୨୧ GitHub statistics
 
-<div align="center">
+\<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=el4ine&show_icons=true&theme=default&bg_color=FFF0F5&title_color=D88FA8&text_color=8C7180&icon_color=C98BAA&border_color=F5D6E2&hide_border=false&locale=pt-br" />
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=el4ine&show_icons=true&bg_color=FFF0F5&title_color=D88FA8&text_color=8C7180&icon_color=C98BAA&border_color=F5D6E2&hide_border=false&locale=pt-br](https://github-readme-stats.vercel.app/api?username=el4ine\&show_icons=true\&bg_color=FFF0F5\&title_color=D88FA8\&text_color=8C7180\&icon_color=C98BAA\&border_color=F5D6E2\&hide_border=false\&locale=pt-br)" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el4ine&layout=compact&theme=default&bg_color=FFF0F5&title_color=D88FA8&text_color=8C7180&border_color=F5D6E2&hide_border=false&locale=pt-br" />
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=el4ine&layout=compact&bg_color=FFF0F5&title_color=D88FA8&text_color=8C7180&border_color=F5D6E2&hide_border=false&locale=pt-br](https://github-readme-stats.vercel.app/api/top-langs/?username=el4ine\&layout=compact\&bg_color=FFF0F5\&title_color=D88FA8\&text_color=8C7180\&border_color=F5D6E2\&hide_border=false\&locale=pt-br)" />
 
-</div>
+\</div>
 
 ---
 
-<div align="center">
+\<div align="center">
 
 ### 🦢 ୨୧ a thought to keep
 
@@ -68,4 +69,5 @@
 
 𓍢ִ໋🌷͙֒ 𓂃 ࣪˖ ִֶָ
 
-</div>
+\</div>
+
