@@ -1,5 +1,4 @@
-
-\<div align="center">
+<div align="center">
 
 ୨୧ ──────── ୨୧
 
@@ -17,7 +16,7 @@
 
 ୨୧ ──────── ୨୧
 
-\</div>
+</div>
 
 ### 🩰 ୨୧ about me
 
@@ -29,11 +28,11 @@
 
 ### 🎀 ୨୧ technologies & tools
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://skillicons.dev/icons?i=python,html,css,github,vscode&theme=light](https://skillicons.dev/icons?i=python,html,css,github,vscode\&theme=light)" />
+<img src="https://skillicons.dev/icons?i=python,html,css,github,vscode&theme=light" />
 
-\</div>
+</div>
 
 ### 🌷 ୨୧ my interests
 
@@ -47,17 +46,21 @@
 
 ### 🕯️ ୨୧ GitHub statistics
 
-\<div align="center">
+<div align="center">
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=el4ine&show_icons=true&bg_color=FFF0F5&title_color=D88FA8&text_color=8C7180&icon_color=C98BAA&border_color=F5D6E2&hide_border=false&locale=pt-br](https://github-readme-stats.vercel.app/api?username=el4ine\&show_icons=true\&bg_color=FFF0F5\&title_color=D88FA8\&text_color=8C7180\&icon_color=C98BAA\&border_color=F5D6E2\&hide_border=false\&locale=pt-br)" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=el4ine&show_icons=true&bg_color=FFF5F8&title_color=C982A0&text_color=987D8B&icon_color=D99BB5&border_color=F2D8E3&hide_border=false&rank_icon=github&include_all_commits=true&locale=pt-br" />
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=el4ine&layout=compact&bg_color=FFF0F5&title_color=D88FA8&text_color=8C7180&border_color=F5D6E2&hide_border=false&locale=pt-br](https://github-readme-stats.vercel.app/api/top-langs/?username=el4ine\&layout=compact\&bg_color=FFF0F5\&title_color=D88FA8\&text_color=8C7180\&border_color=F5D6E2\&hide_border=false\&locale=pt-br)" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el4ine&layout=compact&bg_color=FFF5F8&title_color=C982A0&text_color=987D8B&border_color=F2D8E3&hide_border=false&langs_count=6&locale=pt-br" />
 
-\</div>
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=el4ine&background=FFF5F8&border=F2D8E3&stroke=F2D8E3&ring=D99BB5&fire=C982A0&currStreakNum=987D8B&sideNums=987D8B&currStreakLabel=C982A0&sideLabels=C982A0&dates=B99BAA&hide_border=false&locale=pt_BR" />
+
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### 🦢 ୨୧ a thought to keep
 
@@ -69,5 +72,4 @@
 
 𓍢ִ໋🌷͙֒ 𓂃 ࣪˖ ִֶָ
 
-\</div>
-
+</div>
