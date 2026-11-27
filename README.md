@@ -1,32 +1,18 @@
-<div align="center">
+# Olá, eu sou Elaine
 
-୨୧ ──────── ୨୧
+**Estudante de Tecnologia da Informação**
 
-# 𝓗𝓮𝓵𝓵𝓸, 𝓘'𝓶 𝓔𝓵𝓪𝓲𝓷𝓮! 🦢
+---
 
-♡₊˚ 🐇・₊✧・🎀・✧₊˚♡
+### Sobre mim
 
-**🎓 Information Technology Student**
+- Estudante de Tecnologia da Informação.
+- Atualmente aprendendo programação e desenvolvimento de software.
+- Explorando novas tecnologias e suas aplicações.
+- Interessada em criatividade, inovação e resolução de problemas.
+- Em constante desenvolvimento de habilidades técnicas e profissionais.
 
-𓂃 ࣪˖ ִֶָ𐀔
-
-*“There is no exquisite beauty without some strangeness.”*
-
-— Edgar Allan Poe
-
-୨୧ ──────── ୨୧
-
-</div>
-
-### 🩰 ୨୧ about me
-
-- 🦢 Information Technology student.
-- 🐇 Currently learning programming and development.
-- 🎀 Exploring new technologies.
-- 🧸 Interested in creativity and innovation.
-- 🦋 Always curious about new things.
-
-### 🎀 ୨୧ technologies & tools
+### Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -34,17 +20,17 @@
 
 </div>
 
-### 🌷 ୨୧ my interests
+### Áreas de Interesse
 
-- 💻 Programming
-- ✨ Technology & innovation
-- 📖 Literature
-- 🎨 Creative projects
-- 🌙 Art & aesthetics
+- Programação e Desenvolvimento de Software
+- Tecnologia e Inovação
+- Inteligência Artificial
+- Literatura
+- Projetos Criativos
 
 ---
 
-### 🕯️ ୨୧ GitHub statistics
+### Estatísticas do GitHub
 
 <div align="center">
 
@@ -60,16 +46,9 @@
 
 ---
 
-<div align="center">
+### Citação
 
-### 🦢 ୨୧ a thought to keep
+*"Não há beleza requintada sem alguma estranheza."*
 
-*“We know what we are, but know not what we may be.”*
+— Edgar Allan Poe
 
-— William Shakespeare
-
-♡₊˚ 🐇・₊✧・🎀・✧₊˚♡
-
-𓍢ִ໋🌷͙֒ 𓂃 ࣪˖ ִֶָ
-
-</div>
